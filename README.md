@@ -2,4 +2,4 @@
 Denise's first repository on Github
 
 
-I'm the beginner of iOS development.
+I'm a beginner of iOS development.
